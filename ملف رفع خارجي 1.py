@@ -11,10 +11,10 @@ from email import encoders
 import os
 
 #حط التوكن حقك هنا 
-Token = "التوكن هنا"
+Token = "7921435350:AAHeBe55OYDtRioQ2TA0W_nBA7EdayuD3YM"
 bot = telebot.TeleBot(Token, parse_mode="Markdown")
 
-Owner = ايديك هنا 
+Owner = 7601607055
 BayaTi = set()
 
 user_data = {}
